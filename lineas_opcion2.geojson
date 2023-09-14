@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "lineas_opcion2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.547895163842199, -34.677079440274454 ], [ -58.54489165883362, -34.675084631183545 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.54489165883362, -34.675084631183545 ], [ -58.543702300960554, -34.675762113516306 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.543702300960554, -34.675762113516306 ], [ -58.543009763464838, -34.675370679279595 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.543009763464838, -34.675370679279595 ], [ -58.54412384552316, -34.67464050387651 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.54412384552316, -34.67464050387651 ], [ -58.543273228816467, -34.673932911217847 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.543273228816467, -34.673932911217847 ], [ -58.544522807341345, -34.673451146003437 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.544522807341345, -34.673451146003437 ], [ -58.546750971457982, -34.675220127650093 ] ] ] } },
+{ "type": "Feature", "properties": { "height": "0", "base_height": "0", "color": "blue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -58.546750971457982, -34.675220127650093 ], [ -58.544710996878223, -34.677162243670665 ] ] ] } }
+]
+}
